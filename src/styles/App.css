@@ -1,0 +1,8 @@
+
+.navLink:hover {
+    background: #7b7b7b;
+}
+.navLink.active {
+    text-decoration: underline;
+    text-underline-offset: 5px;
+}
